@@ -302,6 +302,7 @@
 				B2AD0F321E78A2170054A7ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
